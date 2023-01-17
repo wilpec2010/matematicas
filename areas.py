@@ -8,3 +8,11 @@ def areaRectangulo ():
     altura= float(input("ingrese el valor de la altura: "))
     return print( "El area del Rectangulo es: " , base * altura) # 16 de Julio de 2023
 areaRectangulo() # 18 de julio de 2023
+
+pi= 3,1416
+
+def areaCirculo ():
+    radio= float(input("ingrese el valor de la radio: "))
+    altura= float(input("ingrese el valor de la altura: "))
+    return print( "El area del Rectangulo es: " , pi *radio **2) # 16 de Julio de 2023
+areaCirculo() # 18 de julio de 2023
